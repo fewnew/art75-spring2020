@@ -10,4 +10,5 @@ Separate the audio and video<br>
 Change the speed of video (slow motion/timelapse)<br>
 Add blending mode to top layer video<br>
 Video/audio transition for beginning and end<br>
+Render in to out <br>
 Export h264

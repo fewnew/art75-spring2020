@@ -3,11 +3,11 @@ Upload your test-export video on YouTube/Vimeo and share the link here. I recomm
 Create your file on GitHub and include this for your file name:
 ## Firstname_Lastname_video.md
 
-*What to do:*
-Import multiple media files to timeline
-Layer media files on the timeline
-Separate the audio and video
-Change the speed of video (slow motion/timelapse)
-Add blending mode to top layer video
-Video/audio transition for beginning and end
+*What to do:* <br>
+Import multiple media files to timeline<br>
+Layer media files on the timeline<br>
+Separate the audio and video<br>
+Change the speed of video (slow motion/timelapse)<br>
+Add blending mode to top layer video<br>
+Video/audio transition for beginning and end<br>
 Export h264

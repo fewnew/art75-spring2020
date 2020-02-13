@@ -11,8 +11,8 @@ Must include this documentation: <br>
 2. Link to video (Vimeo or YouTube) <br>
 3. Medium (video animation, experimental video, music video, etc. ) <br>
 4. Dimensions/duration <br>
-5. Attribution (burrow and tell): Refrencing the artist if you collected videos froim online sources.
-6. Description** -- one paragraph that addresses the following questions: <br>
+5. Attribution (burrow and tell)** : Refrencing the artist if you collected videos froim online sources.
+**6. Description** -- one paragraph that addresses the following questions: <br>
 What does your project look/sound/smell/feel like? <br>
 What is the conceptual/personal/political motivation behind the project? <br>
 What is the intended context? Where/how does the audience experience it? <br>

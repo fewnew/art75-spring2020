@@ -7,11 +7,11 @@ File name/type: FirstName_LastName_Project01.MD
 * Refer to markdown cheat sheets on the github repository homepage.
 
 Must include this documentation:
-**1. Title of the work
-2. Link to video (Vimeo or YouTube)
-3. Medium (video animation, experimental video, music video, etc. )
-4. Dimensions/duration
-5. Attribution (burrow and tell)**
+**1. Title of the work <br>
+2. Link to video (Vimeo or YouTube) <br>
+3. Medium (video animation, experimental video, music video, etc. ) <br>
+4. Dimensions/duration <br>
+5. Attribution (burrow and tell): Refrencing the artist if you collected videos froim online sources.**
 
 
 

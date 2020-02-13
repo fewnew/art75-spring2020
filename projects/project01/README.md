@@ -19,7 +19,7 @@ What/who are your influences for this particular piece? <br>
 **6. Attribution (burrow and tell)** : Refrencing the artist if you collected videos froim online sources. <br>
 
 A lengthy essay can easily transform into a 3 to 5-minute video. Creating this video will include a process similar to writing a paper such as including a brief abstract, outlining a script, writing a script, and storyboarding what happens along the way within each scene or segment of the video. Students will explore and experiment with basic video production and postproduction skills using Adobe Premiere Pro and a variety of digital cameras and audio/video recording devices. Students will also have to research, create, and curate visual elements such as video and screen recordings, pictures, animations, soundscape or their own spoken audio, collecting clips from the web, then put them all together to tell the story. There are no thematic or morphological restrictions. Your essay should be one page (3-4 long paragraphs).
-<br><br>
+<br>
 Things to consider while ideating and producing for the Digital Video Essay experiment:<br><br>
 1. What is it about? Which parts are most central to understanding the essay— touchstones, if you will, for a viewer? <br>
 2. What does your essay look like? How can you visually represent your essay? What does your essay sound like? How can you aurally represent your essay? Your essay transitions in particular ways in writing—what kind of movement will it have in a digital medium?

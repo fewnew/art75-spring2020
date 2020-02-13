@@ -4,6 +4,8 @@
 Submission Requirements:
 File name/type: FirstName_LastName_Project01.MD
 
+* refer to markdown cheat sheets on the github repository homepage.
+
 Must include this documentation:
 1. Title of the work
 2. Medium (video animation, experimental video, music video, etc. )

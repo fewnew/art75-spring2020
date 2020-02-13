@@ -4,14 +4,14 @@
 Submission Requirements:
 File name/type: FirstName_LastName_Project01.MD
 
-* refer to markdown cheat sheets on the github repository homepage.
+* Refer to markdown cheat sheets on the github repository homepage.
 
 Must include this documentation:
-1. Title of the work
+**1. Title of the work
 2. Link to video (Vimeo or YouTube)
 3. Medium (video animation, experimental video, music video, etc. )
 4. Dimensions/duration
-5. Attribution (burrow and tell)
+5. Attribution (burrow and tell)**
 
 
 

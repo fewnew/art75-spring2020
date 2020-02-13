@@ -8,9 +8,11 @@ File name/type: FirstName_LastName_Project01.MD
 
 Must include this documentation:
 1. Title of the work
-2. Medium (video animation, experimental video, music video, etc. )
-3. Dimensions/duration
-4. Attribution (burrow and tell)
+2. Link to video (Vimeo or YouTube)
+3. Medium (video animation, experimental video, music video, etc. )
+4. Dimensions/duration
+5. Attribution (burrow and tell)
+
 
 
 A lengthy essay can easily transform into a 3 to 5-minute video. Creating this video will include a process similar to writing a paper such as including a brief abstract, outlining a script, writing a script, and storyboarding what happens along the way within each scene or segment of the video. Students will explore and experiment with basic video production and postproduction skills using Adobe Premiere Pro and a variety of digital cameras and audio/video recording devices. Students will also have to research, create, and curate visual elements such as video and screen recordings, pictures, animations, soundscape or their own spoken audio, collecting clips from the web, then put them all together to tell the story. There are no thematic or morphological restrictions. Your essay should be one page (3-4 long paragraphs).

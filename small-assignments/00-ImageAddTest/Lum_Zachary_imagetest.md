@@ -13,6 +13,6 @@
  2. Two
  3. Three
  
- **Bold Text Goes Here**
+ **Bold Text Goes Here** <br>
  **Italic text here* 
  

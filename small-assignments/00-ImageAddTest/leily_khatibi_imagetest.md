@@ -11,7 +11,7 @@
 2. Two 
 3. Three
 
-** Bold Text goes Here **
+**Bold Text goes Here**
 *Italic text here*
 
 

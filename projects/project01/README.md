@@ -6,7 +6,7 @@ File name/type: FirstName_LastName_Project01.MD
 
 * Refer to markdown cheat sheets on the github repository homepage.
 
-Must include this documentation:
+Must include this documentation: <br>
 **1. Title of the work <br>
 2. Link to video (Vimeo or YouTube) <br>
 3. Medium (video animation, experimental video, music video, etc. ) <br>

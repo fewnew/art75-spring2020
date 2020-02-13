@@ -11,5 +11,5 @@
 2. two
 3. three
 
-**Bold text goes here** *br*
+**Bold text goes here** <br>
 *Italic text goes here*

@@ -1,4 +1,4 @@
-##Ghost
+# Ghost
 
 
 1. https://vimeo.com/manage/391708097/general (Password: project1)

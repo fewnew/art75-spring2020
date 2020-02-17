@@ -2,7 +2,7 @@
 [Click](https://youtu.be/PvVBSdwbpnk)
 
 ## Medium
-Experimental video
+Daily life video
 
 ## Duration
 3:31minutes

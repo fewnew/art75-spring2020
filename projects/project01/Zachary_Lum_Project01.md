@@ -20,6 +20,7 @@ For my Digital Video Post Project, I originally wanted to do it on the compariso
 ## Attribution
 
 https://www.youtube.com/watch?v=WumQ-FYQ8iE&t=17s
+
 https://www.youtube.com/watch?v=1tDTxKEmfbg
 https://www.youtube.com/watch?v=4CerNG2JijQ
 

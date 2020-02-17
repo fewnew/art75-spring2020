@@ -3,7 +3,6 @@
 3. Medium: life video
 4. Duration - 3:01 minutes
 5. Description:This is a daily life about cats when the owner is away. The content is purely fictional. It uses exaggerated techniques to explain the cat's inner thoughts.
-
 6.Attribution:
 https://tenor.com/view/ora-starplatinum-jojosbizarreadventure-jojo-gif-5505650
 https://tenor.com/view/smile-cute-cat-cat-stare-down-gif-5756839

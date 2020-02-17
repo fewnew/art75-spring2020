@@ -1,7 +1,3 @@
-# Text here is inheader one styling 
-## Header Two 
-### Header Three
-
 # Chaotic Places at SJSU
 
 https://vimeo.com/391888379

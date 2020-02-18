@@ -1,5 +1,5 @@
 1. Doors to Success
-2. https://vimeo.com/user95628518/review/391881011/f51ad77573
+2. https://vimeo.com/391881011
 3. Storytelling/Experimental Video
 4. 3:03 minutes
 5. The look of the piece is contemporary with a mostly muted color pallet. I want to create a piece where the audience can emphasize with the person’s struggle to achieve success. Opening unknown doors is seen as taking a leap of faith. Sometimes it leads to something good, sometimes something bad. The path to success is full of ups and downs and I want to create a piece showing the relationship between opening doors and success. Every person in his/her lifetime feels this urge to take chances with their lives and while the ending is left on a cliffhanger, this desire to take chances in order to pursue success and happiness is never ending.

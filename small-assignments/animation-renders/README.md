@@ -3,4 +3,7 @@ Export your animation file as an MP4(H264) or a sequence of JPEG images and save
 <br>
 Create a new markdown file with your name and share the link to the animation.
 <br>
-Due 2/26
+**Due 2/26**
+_____________________
+Website for collecting open source vectors to include in your animation:
+freepik.com

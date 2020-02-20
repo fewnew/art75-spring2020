@@ -5,5 +5,4 @@ Create a new markdown file with your name and share the link to the animation.
 <br>
 **Due 2/26**
 _____________________
-Website for collecting open source vectors to include in your animation:
-freepik.com
+Website for collecting open source vectors to include in your animation: https://www.freepik.com/

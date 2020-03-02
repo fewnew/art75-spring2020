@@ -10,7 +10,7 @@ Varied stories can be imagined when asked about Identity and the Meaning of Home
 <br><br>
 One part of your project is your AR component but the other portion will be how to present this work in real space and time. Additionally, share how your AR work will be presented (screen, projection, stage, iPad, or phone).  Will your final work require sound, special lighting, or any other details that would help transform your artwork in the exhibition space?
 <br>
-Proposals are due March 4th and should include:<br>
+**Proposals are due March 4th** and should include:<br>
 * A written project plan exploring your concept of Identity and the Meaning of Home, as seen in your work.
 * Image samples of the space and the exhibition work you are building, along with all elements to be included
 * A video sample of your Adobe Aero/AR work you want to present.

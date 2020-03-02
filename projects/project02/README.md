@@ -1,6 +1,6 @@
 # Project 02: Extended Reality Video/Animation Art
 
-### PROJECT DUE DATE: Monday, March 9th
+### DUE DATE: Monday, March 9th
 
 For this project explore the concept of **Identity and the Meaning of Home** and use Adobe Aero as the main component to tell a highly creative narrative as it relates to the theme. Select projects will then be presented in April for an amazing art exhibition at Black Gallery. 
 <br>

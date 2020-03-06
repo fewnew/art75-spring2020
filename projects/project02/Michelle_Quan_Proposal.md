@@ -2,4 +2,5 @@
 [space]
 * In an exhibition space, I would have a loveseat couch and stock family pictures in frames as a centerpiece in the room with pieces of “old” technology around the couch or the family aspect. Using Aero, when a mobile device points at an old piece of technology in the room, a new version of the item would be seen on the device. For example, when the mobile device points at a joystick in the room, a Nintendo Switch would cover the joystick, conveying that while entertainment and group activities have changed, the idea of being together is still there. I would have Hence, everything in the room except the couch and the family pictures would be digitally manipulated in AR in order to convey my idea of home and family. 
 
-https://vimeo.com/user95628518/review/396048605/9eab091626
+https://vimeo.com/user95628518/review/396048605/9eab091626 (original set up)
+https://vimeo.com/user95628518/review/396059360/c8e2a68762 (with behaviors)

@@ -2,6 +2,10 @@
 
 https://youtu.be/XfPwUipLBPw
 
+### Medium
+
+Augmented Reality
+
 ### Dimensions/Duration
 
 Dimensions: 1920x1080

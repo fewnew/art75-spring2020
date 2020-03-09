@@ -1,5 +1,5 @@
 1. Living Through Change
-2. * https://vimeo.com/396048605(original set up)
+2. * https://vimeo.com/396048605 (original set up)
 * https://vimeo.com/396059360 (with behaviors)
 3. Augmented Reality
 4. 0:05 seconds; 9:16 ratio

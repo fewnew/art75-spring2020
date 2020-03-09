@@ -1,6 +1,6 @@
 1. Living Through Change
-2. * https://vimeo.com/user95628518/review/396048605/9eab091626 (original set up)
-* https://vimeo.com/user95628518/review/396059360/c8e2a68762 (with behaviors)
+2. * https://vimeo.com/396048605(original set up)
+* https://vimeo.com/396059360 (with behaviors)
 3. Augmented Reality
 4. 0:05 seconds; 9:16 ratio
 5. * Sofas. Chairs. TVs. Pictures. Laptops. Today, most living or family rooms consist of these items. Throughout time, while technology and design trends come and go, the purpose of a family room remains the same: to spend time together with family. Of all the rooms in a house, my memories of spending time with friends and family in this room differentiated a home from any other building. Over the years, the items in my parents’ living room have moved around and changed, but we all still spent time together through watching films, playing games, etc. either on a couch or the floor.

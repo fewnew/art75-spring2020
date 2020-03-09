@@ -2,7 +2,7 @@
 https://vimeo.com/396329880
 
 ## Medium 
-3D/2D and Augmented Reality 
+3D/2D & Augmented Reality 
 
 ## Dimensions/Duration 
 1920x1080

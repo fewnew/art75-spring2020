@@ -1,0 +1,3 @@
+When the ideas of "Home" and "Identity" are mentioned, the first thing I always think of is Taiwan. Understandable, considering that is where I spent nine years of my life prior to moving to America. Taiwan is also where my mother and older sister reside, along with everyone on my mom's side of the family. For Project 2, I hope to create a link between Taiwan and America in some shape or form. As of now, I am planning on featuring milk tea in some way as well as a game board with Taiwan on it.
+In terms of how the AR work is to be presented, as of now, it is going to be filmed on an iPhone and can be streamed anywhere. Background music will also be included in the video.
+https://youtu.be/R-6xN-azEgk

@@ -29,7 +29,7 @@ immersion of that room as they look around (not interactive).
 
 **Visualization of the space**
 
- ![Alt Text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fqtxasset.com%2F2017-04%2Fhotel-zetta.jpg%3FNnije3PwuoAdFfzJqRs9fOguS8_o2kNF&imgrefurl=https%3A%2F%2Fwww.hotelmanagement.net%2Ftech%2Fhotel-zetta-introduces-virtual-reality-experiences&tbnid=3kRDoBGWZdXopM&vet=12ahUKEwju7Mj5t4roAhWFjZ4KHfoBBVQQMygHegUIARCXAg..i&docid=qXHtWA24VckdWM&w=2148&h=1432&q=vr%20room%20&ved=2ahUKEwju7Mj5t4roAhWFjZ4KHfoBBVQQMygHegUIARCXAg)
+ ![Alt Text](https://qtxasset.com/2017-04/hotel-zetta.jpg?Nnije3PwuoAdFfzJqRs9fOguS8_o2kNF)
 
 The idea is to immerse the viewer in a virtual room made possible with 360 degree camera and adding 3D elements with ADOBE AERO.
 Then, with the help of a VR device, the viewer will be able to experience the personal space of a room and explore what the room

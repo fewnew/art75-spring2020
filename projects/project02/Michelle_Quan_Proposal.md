@@ -4,3 +4,26 @@
 
 https://vimeo.com/user95628518/review/396048605/9eab091626 (original set up)
 https://vimeo.com/user95628518/review/396059360/c8e2a68762 (with behaviors)
+
+Credits:
+* https://sketchfab.com/3d-models/nintendo-switch-fa26de52abb045729414e6068d0a536c
+chor6457- Nintendo Switch
+
+* https://commons.wikimedia.org/wiki/File:Lorem_Ipsum_Helvetica.png
+BK- Text on Ereader
+
+* https://commons.wikimedia.org/wiki/File:Logonfx.png
+Netflix- Netflix Logo
+
+* https://sketchfab.com/3d-models/sofa-54d6bf52e17b4961b269922ca5c90fe3
+Vegu- Sofa
+
+* https://sketchfab.com/3d-models/old-joystick-f60e5b1a2a0149ceafba863c25ba74d8
+2Garin- Old Joystick
+
+* https://sketchfab.com/3d-models/book-fc1b43e332d147edb7dca8f89cffa4d7
+Eric Fan- Book
+
+* https://sketchfab.com/3d-models/90s-tv-369f46d2bf534bb3ad4f1bc4d05e437d
+Serek- Old TV
+

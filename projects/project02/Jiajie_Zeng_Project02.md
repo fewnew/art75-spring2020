@@ -1,0 +1,2 @@
+For this project, I want to express the definition of home for me is a shield. When I feel stressful, I think home is the place that can soothe my mood. When I am sad, I think the toys in my home are my closest friends who can talk with me. No matter what I met, home is still there waiting for me and protecting to me. Home is always the most comfortable place because I don't need to put on the mask, I don't need to care other's eyes, and I can be myself. 
+https://youtu.be/bUtEhUmIvcc

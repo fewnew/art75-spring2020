@@ -10,3 +10,7 @@ For my video I wanted to create a little set of models that would represent who 
  
  
  https://www.youtube.com/watch?v=ZXF-4AB3kYk
+ 
+ 
+#### Attribution:
+Adobe Stock - abodestock3d

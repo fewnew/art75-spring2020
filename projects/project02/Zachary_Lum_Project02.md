@@ -5,7 +5,7 @@ https://vimeo.com/396329880
 3D/2D & Augmented Reality 
 
 ## Dimensions/Duration 
-1920x1080
+1080x1920
 
 34 seconds 
 

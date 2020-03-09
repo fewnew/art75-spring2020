@@ -6,6 +6,7 @@ https://vimeo.com/396329880
 
 ## Dimensions/Duration 
 1920x1080
+
 34 seconds 
 
 ## Description

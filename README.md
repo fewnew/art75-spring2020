@@ -5,7 +5,7 @@ Introduction of the fundamental skills, software and techniques involved in the 
 + Mon/Wed 3:00 - 5:50pm
 + Office Location: Art #311
 
-IF YOU ARE NOT RECEIVING CLASS EMAILS FROM THE GOOGLE GROUP EMAIL ME ASAP!!!
+**IF YOU ARE NOT RECEIVING CLASS EMAILS FROM THE GOOGLE GROUP EMAIL ME ASAP!!!**
 
 ![alt text](https://i.imgur.com/ZYvp3Wp.png)
 

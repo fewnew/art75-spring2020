@@ -3,6 +3,6 @@ Create a website with at least 5 webpages and link them to eachother as a non-li
 <br>
 ## Webpages should include:
 * Text
-* Images/GIFs (embedded from Imgur or Giphy)
+* Images/GIFs (sourced from Imgur or Giphy)
 * Videos (embedded from YouTube or Vimeo)
 * Styling such as font family, font color, background color, etc.

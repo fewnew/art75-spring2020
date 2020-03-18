@@ -1,4 +1,4 @@
-### 1. Narwhals, Narwhals
+### 1. Title: Narwhals, Narwhals
 ### 2. Net Art, 6 pages
 ### 3. 1920 x 1080
 ### 4. Attributes:

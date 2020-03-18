@@ -1,10 +1,8 @@
 # Classical anime
 
-1.[Link](https://zlc-long.github.io/Zcll.github.io/Index.html)
-..
-2.Net Art
-..
-3. 5 pages
+*.[Link](https://zlc-long.github.io/Zcll.github.io/Index.html)
+*.Net Art
+*. 5 pages
 
 
 

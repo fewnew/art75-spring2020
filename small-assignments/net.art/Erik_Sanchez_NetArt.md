@@ -2,12 +2,12 @@
 
 [Net.Art](https://erikelric.github.io/index.html)
 
-**Content
+**Content**
 
-**Theme
+**Theme**
 
 Galaxy
 
-**Number of pages
+**Number of pages**
 
 5 Pages

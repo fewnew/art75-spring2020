@@ -1,6 +1,6 @@
 <h1>Net.Art</h1>
 
-[Net.Art](https://erikelric.github.io/index.html)
+[Net.Art](file:///C:/Users/Erik%20Sanchez/Site/erikelric.github.io/index.html)
 
 **Content**
 

@@ -1,5 +1,5 @@
 ### 1. Narwhals, Narwhals
-### 2. Net Art
+### 2. Net Art, 6 pages
 ### 3. 1920 x 1080
 ### 4. Attributes:
 * https://gph.is/st/2E1kNYo

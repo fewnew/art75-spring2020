@@ -6,10 +6,8 @@
 
 
 
-"Deadly Serious" Artist Kiszkiloszki Animates Classic Paintings:
-(https://theculturetrip.com/europe/the-netherlands/articles/artist-kiszkiloszki-kajetan-obarski-animates-classic-paintings/)
+1. "Deadly Serious" Artist Kiszkiloszki Animates Classic Paintings: (https://theculturetrip.com/europe/the-netherlands/articles/artist-kiszkiloszki-kajetan-obarski-animates-classic-paintings/)
 
-kiszkiloszki:
-(https://kiszkiloszki.tumblr.com/)
+2. kiszkiloszki: (https://kiszkiloszki.tumblr.com/)
 
 

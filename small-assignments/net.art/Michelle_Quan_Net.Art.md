@@ -1,7 +1,8 @@
 ### 1. Title: Narwhals, Narwhals
-### 2. Net Art, 6 pages
-### 3. 1920 x 1080
-### 4. Attributes:
+### 2. https://murasaki21.github.io/Narwhals/
+### 3. Net Art, 6 pages
+### 4. 1920 x 1080
+### 5. Attributes:
 * https://gph.is/st/2E1kNYo
 Mixbook-Magic Unicorn Sticker
 

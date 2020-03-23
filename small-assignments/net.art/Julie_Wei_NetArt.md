@@ -1,5 +1,5 @@
 # Minigame
-1. https://cwei033.github.io/
+1. https://cwei033.github.io/game
 2. Net Art, 7 pages
 3. 1920 x 1080
 4. Attributions:

@@ -7,11 +7,11 @@ Building on the HTML & CSS skills that you developed in the Net.Art assignment, 
 1. 10 Artwork samples: these may include–but are not limited to–video and interactive art, digital illustration and animation,  previous projects from Art74 or other similar classes.
 2. Interactive Graphical User Interface based WebGL interactive artwork–you can use http://threejsplaygnd.brangerbriz.net/, https://p5js.org/, https://www.vantajs.com/ and use this as a website background or an artwork sample.
 3. A menu including links to: <br>
-    • **Portfolio page*** - this could be the same as you homepage or an additional webpage<br>
+    • **Portfolio page** - this could be the same as you homepage or an additional webpage<br>
     • **About page** - Artist bio/statement, CV or resume, artist photo (optional)
     • **Contact page** - having this page as a seperate link is optional. You can include your social media and contact info in your website footer as well. <br>
- 4. Each portfolio sample requires its own individual page including the following documentation: <br>
- **1. Title of the work <br>
+ 4. Each portfolio sample requires its own individual page including the following documentation:
+**1. Title of the work <br>
 2. Link to video (Vimeo or YouTube) <br>
 3. Medium (video animation, experimental video, music video, etc. ) <br>
 4. Dimensions/duration <br>

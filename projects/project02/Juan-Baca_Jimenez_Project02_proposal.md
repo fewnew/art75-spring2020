@@ -1,0 +1,3 @@
+For this project I will implement soccer related objects into my video. I plan to create either 2-d or 3-d objects through photoshop and upload the onto Adobe Aero.
+I want to record in front facing my house and some recording at a field. I will play around with what I can add to my video and find what looks interesting to include in my video.
+The idea behind this project is to show how I define the word "home." I view "home" as a not only where you live but bringing home within something you love doing. For me home is soccer because that makes me happy and confortable which is how I also feel at home. 

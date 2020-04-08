@@ -2,7 +2,7 @@
 
 https://erikelric.github.io
 
-**medium**
+**Medium**
 
 Website
 

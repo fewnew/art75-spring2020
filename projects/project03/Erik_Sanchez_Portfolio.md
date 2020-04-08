@@ -1,10 +1,10 @@
-##Portfolio
+## Portfolio
 
 https://erikelric.github.io
 
 **medium**
 
-*Website
+Website
 
 **Description**
 

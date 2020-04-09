@@ -14,7 +14,7 @@ Experimental Video
 5. Description 
 When people work, go to school, and are just stacked up with errands and chores everyday, they lose sight of what is really important in their life. I wanted to give back to the people with a video that showed what is really precious in a short amount of time. They will experience heartfelt love for nature, animals, other people, basically life in general. I realized this, because I was unhappy with how my days were going, I felt as if I was missing something important. In one of the years of my life, I went through an ordeal, after that was settled I remembered how happy I was when I got rid of the materialistic ideals and wanted to express that to others who are unhappy as well. 
  
-6. Attribution (burrow and tell) : 
+6. Attribution (burrow and tell) 
 Video Clips:
 https://pixabay.com/videos/evening-grasses-lakeside-sunset-6514/
 https://pixabay.com/videos/weissdorn-flowers-blossom-hawthorn-16111/

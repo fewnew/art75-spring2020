@@ -1,6 +1,7 @@
 # Final Project: Virtual Gallery
 
-Virtual Institute of Simulacra Art (VISA) is a collective space for exhibiting artworks online. Each student/group builds their own Mini-Gallery including 2D or 3D artworks such as sculptures, paintings, illustrations, videos, etc. <br>
+Virtual Institute of Simulacra Art (VISA) is a collective space for exhibiting artworks online. Each student/group builds their own Mini-Gallery including 2D or 3D artworks such as sculptures, paintings, illustrations, videos, etc. <br><br>
+For this submission inlude a link to the webpage with the 6 renders. 
 
 
 ### What is Simulacra?

@@ -1,7 +1,6 @@
 # Final Project: Virtual Gallery
 
-Virtual Institute of Simulacra Art (VISA) is a collective space for exhibiting artworks online. Each student/group builds their own Mini-Gallery including 2D or 3D artworks such as sculptures, paintings, illustrations, videos, etc. <br><br>
-For this submission inlude a link to the webpage with the 6 renders. 
+Virtual Institute of Simulacra Art (VISA) is a collective space for exhibiting artworks online. Each student/group builds their own Mini-Gallery including 2D or 3D artworks such as sculptures, paintings, illustrations, videos, etc.
 
 
 ### What is Simulacra?
@@ -20,7 +19,21 @@ https://www.artgallery.nsw.gov.au/artsets/vc9p09
 * Why do people like to collect artwork? (Physically and mentally collect beauties, inspirations)
 * Why do we need institutions to preserve and collect those arts?
 * Is there any open-sourced museum?
-<br>
+
 ### Keywords
 Pandemic, colonialism, apocalyptic, sci-fi, incubation, acceleration, sustainable, alternative future, civilization, retro-futurism, solarpunk, science fantasy‎, tech noir, shelter, sanctuary, …
+
+## Sumbmission Details
+For this submission inlude a link to the webpage that has the 6 renders, and in your markdown file write two paragraphs supporting the text provided below:
+
+**1. Title of the work** <br>
+**2. Embedded work** <br>
+**3. Medium** <br>
+**4. Dimensions/duration**<br>
+**5. Description** -- one paragraph that addresses the following questions: <br>
+What does your project look/sound/smell/feel like? <br>
+What is the conceptual/personal/political motivation behind the project? <br>
+What is the intended context? Where/how does the audience experience it? <br>
+What/who are your influences for this particular piece? <br>
+**6. Attribution (burrow and tell)** : Refrencing the artist if you collected 3D files, or imagery froim online sources. <br>
 

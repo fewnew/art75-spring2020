@@ -2,6 +2,9 @@
 <br>
 <h2>by Amanda Johnston</h2>
 <br>
+https://amandajohnston.github.io/museum/amanda_johnston.html
+
+<br>
 
 ![image1](https://imgur.com/RnYph1o.jpg)
 ![image2](https://imgur.com/puTx7YS.jpg)

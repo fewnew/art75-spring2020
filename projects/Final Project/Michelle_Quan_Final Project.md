@@ -1,0 +1,6 @@
+1. Forgotten
+2. https://murasaki21.github.io/michellequan/Forgotten.html
+3. Virtual Reality
+4. 1024 x 768
+5. Quarantine. Shelter-in-Place. Stay-at-Home Order. Regardless of the name, due to COVID-19 Pandemic, people are staying home more than ever. Once lively and bustling cities are now modern ghost towns, especially areas with concentrations of Asian populations. Through combining a ghost town concept with Asian Nightlife aesthetics, I want to recreate an empty or "Forgotten" city to house my "lively" art work on the large screens and business signs within the exhibition. Due to the quarantine, the city is in an isolated state with red spheres resembling the COVID-19. Hence, the glass dome surrounding the city. For most cities, nightlife is seen as an etheral escape from reality. To convey the Asian Nightlife aesthetics, I created lanterns, an entrance gate, and neon signs of small businesses. These signs represent the local businesses impacted by the pandemic, especially bars and salons. Although there are many aspects of Chinatown, I did not want it to be only representative of one cultural enclave such as a Chinatown or a Little Tokyo, so there is no text on any of the signs.
+6. All pieces and textures were created by me

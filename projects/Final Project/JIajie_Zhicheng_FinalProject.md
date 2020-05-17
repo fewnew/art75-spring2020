@@ -1,5 +1,7 @@
 <h1>Big Boy's Room</h1>
+<br>By Jiajie Zeng and Zhicheng Long
 <br>https://zlc-long.github.io/Web_Portfoilio_Zlc_75.github.io/Virtual%20Gallery.html
+<br>https://kakitsan.github.io/portfolio/VISA.html
  </br>
 <h2>Medium</h2>
 Adobe Dimension, Sketchup, Mexmisher

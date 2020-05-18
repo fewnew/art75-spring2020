@@ -1,6 +1,6 @@
  ## Title of the work
  Baca Musuem of Art
- (images/Juan_Baca_Museum05.jpg)
+ images/Juan_Baca_Museum05.jpg
  ## Medium:
  Created models from Meshmixer.
  Architecture accomplished through Sketchup.

@@ -1,6 +1,6 @@
  ## Title of the work
  Baca Musuem of Art
- images/Juan_Baca_Museum05.jpg
+ C:\Users\UserName\Desktop\Github\JuanBaca648.github.io\images\Juan_Baca_Museum05
  ## Medium:
  Created models from Meshmixer.
  Architecture accomplished through Sketchup.

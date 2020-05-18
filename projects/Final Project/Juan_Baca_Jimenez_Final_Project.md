@@ -1,5 +1,5 @@
- ## Title of the work
- Baca Musuem of Art
+ ## Baca Museum of Art
+ ![my building](https://juanbaca648.github.io/images/mybuilding1.png)
  ![first image](https://juanbaca648.github.io/images/Juan_Baca_Museum05.jpg)
  ![second image](https://juanbaca648.github.io/images/Juan_Baca_Museum02.jpg)
  ![third image](https://juanbaca648.github.io/images/Juan_Baca_Museum03.jpg)

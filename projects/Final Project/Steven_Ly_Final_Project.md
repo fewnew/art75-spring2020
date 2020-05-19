@@ -8,7 +8,7 @@ Virtual Reality
 N/A
 
 ## Description
-  This project was done in collaboration with two of my friends from Art 75, Eddy Benitez and Zaachery Lum. Our project name is 
+  This project was done in collaboration with two of my friends from Art 75, Eddy Benitez and Zachery Lum. Our project name is 
 “Mythical Grounds”. The project is supposed to give a feeling of nature but yet a feeling of being somewhere mystical. You would 
 be able to walk into this place and hear the life of nature, birds chirping or even the water from the pond trickling down the stone. 
 You might even feel the wind that goes through the bushes and or trees. The context of this project was that we decided to go with the 
